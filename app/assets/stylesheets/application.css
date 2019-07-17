@@ -18,6 +18,10 @@
   padding: 0 !important;
  }
 
+.left-padding {
+  padding-left: 15px !important;
+}
+
  .results-block {
   display: inline-block;
 }
